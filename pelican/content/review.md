@@ -1,11 +1,8 @@
-Title: Mi primera publicación
-Date: 2024-03-16
+Title: Primer Post
+Date: 2024-04-14
 Category: Blog
-Tags: pelican, markdown
-Slug: mi-primera-publicacion
-Author: Tu Nombre
+Tags: pelican, markdown, incio
+Slug: norman-slung
+Author: Norman
 
-¡Hola mundo!
-
-Esta es mi primera publicación en Pelican. Estoy emocionado de comenzar mi blog.
-
+Comenzando este es el puntapi inicial
